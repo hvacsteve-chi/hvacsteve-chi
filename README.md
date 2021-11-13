@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stephen (hvacsteve-chi). Welcome!
 - 👀 I’m interested in learning all about web development.  
       as we develop our dev skill, and developing <a href=
-https://faithheatingcooling.com" aria-details="Faith Heating & Cooling">our business' online profile</a> that sets a new standard and fuels the aspirations of 
+https://faithheatingcooling.com" aria-details=">Faith Heating & Cooling">our business' online profile</a> that sets a new standard and fuels the aspirations of 
       a business goal of being THE standard as far as HVAC online-professional.
 
 - 🌱 I’m currently learning front end stuff (currently /advanced javascript + dabbling into material design concepts)
